@@ -1,6 +1,6 @@
 # 📊 Delinquency-Risk-Analysis
 
-An interactive Power BI dashboard to analyze and visualize customer delinquency patterns using financial data. The project aims to identify high-risk customer segments and provide insights for improved credit risk management.
+An interactive Power BI dashboard designed after performing EDA on 500+ customer accounts to analyze and visualize customer delinquency patterns using financial data. The project aims to identify high-risk customer segments and provide insights for improved credit risk management.
 
 ---
 
@@ -15,6 +15,7 @@ This project investigates **delinquency behavior**, defined as missed or delayed
 - **Power BI**
 - **Power Query (Data Preprocessing)**
 - **DAX (Data Analysis Expressions)**
+- **Python**
 - **Data Cleaning & Binning**
 - **Interactive Visualizations**
 
